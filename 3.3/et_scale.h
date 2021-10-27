@@ -1,10 +1,4 @@
-/*
- *  Author:  Klaus-Peter Zauner
- *  Licence: This work is licensed under the Creative Commons Attribution License.
- *           View this license at http://creativecommons.org/about/licenses/
- *
- *   
- *  Frequency table for an equal-tempered scale
+/*  Frequency table for an equal-tempered scale
  *  generated with the formula:
  *     f =  f_base * (2^{1/12})^halfsteps
  *  following:
